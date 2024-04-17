@@ -1,2 +1,4 @@
-class Demo{}[D
-[D[D[D
+class Demo{
+
+    int i=10;
+}
